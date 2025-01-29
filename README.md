@@ -1,39 +1,22 @@
-## Hi there 👋
 
-<!--
-**iamTahmimHasan/iamTahmimHasan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Tahmim Hasan Sany 👋
 
-# Hi there, I'm [Your Name] 👋
-
-![Profile Banner](https://your-banner-image-url.com)
 
 ## 🚀 About Me
 
-I am a **Software Developer** passionate about building scalable and efficient applications. With experience in full-stack development, I specialize in **[Your Tech Stack]** and love contributing to open-source projects.
+I am a **Jr. Software Developer** passionate about building scalable and efficient applications. With experience in enterprise software development, I specialize in **Java, Spring Boot Framework** and love contributing to open-source projects.
 
-- 🔭 I’m currently working on **[Your Current Project]**
-- 🌱 I’m currently learning **[New Tech or Framework]**
+- 🌱 I’m currently learning **Scalable Enterprise Software Development**
 - 👯 I’m looking to collaborate on **Open Source and Interesting Projects**
-- 💬 Ask me about **[Tech Expertise, e.g., JavaScript, Python, DevOps]**
-- 📫 Reach me at **[Your Email]**
+- 💬 Ask me about **Java, Python, Go**
+- 📫 Reach me at **sanytahmim@gmail.com**
 
 ## 🛠️ Tech Stack
 
-- **Languages:** [Programming Languages]
-- **Frameworks:** [Frontend & Backend Frameworks]
-- **Databases:** [SQL/NoSQL Databases]
-- **Tools:** [Development & CI/CD Tools]
-
-## 📌 Featured Projects
-
-### [Project Name](https://github.com/yourusername/project-repo)
-- 🔹 Short description of the project
-- 🔹 Technologies used: **[Tech Stack]**
-- 🔹 [Live Demo](https://your-live-demo.com)
-
-### [Another Project](https://github.com/yourusername/another-project)
-- 🔹 Short description of the project
-- 🔹 Technologies used: **[Tech Stack]**
+- **Languages:** C, Java, Python, Go
+- **Frameworks:** Frontend - ReactJs & Backend Frameworks - Spring Boot Framework
+- **Databases:** SQL - PostgreSQL, Oracle, MySQL, and NoSQL - MongoDB
+- **Tools:** Docker, Git, Jenkins, CI/CD
 
 ## 📊 GitHub Stats
 
