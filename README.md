@@ -28,6 +28,6 @@ I am a **Jr. Software Developer** passionate about building scalable and efficie
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/iamTahmimHasan)
 [![Twitter](https://img.shields.io/badge/Twitter-Profile-blue?style=flat-square&logo=twitter)](https://twitter.com/iamTahmimHasan)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-green?style=flat-square&logo=web)]([https://yourportfolio.com](https://iamtahmimhasan.github.io/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-green?style=flat-square&logo=web)](https://iamtahmimhasan.github.io/)
 
 📌 *Feel free to check out my repositories and reach out if you’d like to collaborate!* 😃
