@@ -2,14 +2,14 @@
 
 🚀 **Jr. to Mid-Level Software Engineer | Backend Developer | Problem Solver**  
 
-I am a **passionate Software Engineer** with experience in **enterprise software development** and a focus on **scalable, efficient applications**. Proficient in **Java, Python, Go, and C,** I specialize in **backend development, system design, and full-stack development.** I enjoy solving complex problems using **algorithms, data structures, and databases** while contributing to open-source projects.  
+I am a **passionate Software Engineer** with experience in **enterprise software development** and a focus on **scalable, efficient applications**. Proficient in **Java, Python, Go, and C,** I specialize in **backend development, system design, and full-stack development.** I enjoy solving complex problems using **algorithms, data structures, and databases** while continuously learning and improving my craft.  
 
 ---
 
 ## 🌱 **About Me**  
 
 - 🌍 I’m currently learning **Scalable Enterprise Software Development**  
-- 👯 Looking to collaborate on **Open Source & Interesting Projects**  
+- 👯 Looking to collaborate on **interesting projects**  
 - 💬 Ask me about **Java, Python, Go**  
 - 📫 Reach me at **sanytahmim@gmail.com**  
 
